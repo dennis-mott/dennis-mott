@@ -11,4 +11,15 @@
 
 - *3/31/2025 to 4/4/2025* : Kaggle's 5 Day Intensive Generative AI (2025) by Google was amazing! AI is not my specialty but I learned so much about Foundational Models & Prompt Engineering, Embeddings & Vector Databas, Generative AI Agents, Domain-Specific LLMs, and MLOps for Generative AI. I can't wait to see what next year has in store, surely my AI skills will have progressed by then!
 
+### Formal Education
+M.S.
+Eastern University
+Data Science
+2023 – 2024
+
+B.S.
+Western Michigan University
+Major: Mechanical Engineering
+Minor: Mathematics
+2010 – 2014
 
