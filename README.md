@@ -1,6 +1,6 @@
 ## Hello 👋
 #### I'm Dennis, and I'm looking to use my experience as an engineer to transition to a data science position.
-#### Check out my [Personal Website](dennis-mott.github.io) I made using Github Pages.
+Check out my [Personal Website](dennis-mott.github.io) I made using Github Pages.
 
 ## My Data Science Work
 - Have you ever walked through the woods and wondered if the mushrooms you found are poisonous or not? If you want to make good decisions in the woods, check out my [Mushroom Classifier](mushroom_classifier.ipynb).
@@ -23,3 +23,4 @@
     -- Minor: Mathematics
     -- 2010 to 2014
 
+## Let's Collaborate and Make Something Great!
