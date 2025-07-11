@@ -15,11 +15,11 @@
 - M.S.
     -- Eastern University
     -- Data Science
-    -- 2023 – 2024
+    -- 2023 to 2024
 
 - B.S.
-    Western Michigan University
-    Major: Mechanical Engineering
-    Minor: Mathematics
-    2010 – 2014
+    -- Western Michigan University
+    -- Major: Mechanical Engineering
+    -- Minor: Mathematics
+    -- 2010 to 2014
 
