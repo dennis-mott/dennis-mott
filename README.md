@@ -13,9 +13,9 @@
 
 ### Formal Education
 - M.S.
-    Eastern University
-    Data Science
-    2023 – 2024
+    -- Eastern University
+    -- Data Science
+    -- 2023 – 2024
 
 - B.S.
     Western Michigan University
