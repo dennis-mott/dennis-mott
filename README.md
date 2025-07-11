@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+### I'm Dennis, and I'm looking to use my experience as an engineer to transition to a data science position.
 <!--
 **dennis-mott/dennis-mott** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## My Data Science Work
+### Have you ever walked through the woods and wondered if the mushrooms you found are poisonous or not? If you want to make good decisions in the woods, check out my [Mushroom Classifier](docs/https://github.com/dennis-mott/mushroom-classifier.git).
+
+###
+
